@@ -14,7 +14,7 @@
  * @package WordPress
  */
 
-define('WP_REDIS_HOST', '');
+define('WP_REDIS_HOST', '1');
  
 define('WP_HOME','');
 define('WP_SITEURL','');
